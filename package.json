@@ -1,0 +1,32 @@
+{
+  
+  "name": "disk-fs",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "",
+  "keywords": [ "disk-fs" ],
+  
+  "author": {
+    "name": "Jonas Hermsmeier",
+    "email": "jhermsmeier@gmail.com",
+    "url": "https://github.com/jhermsmeier"
+  },
+  
+  "main": "lib/filesystem",
+  
+  "dependencies": {
+    "derive": "latest"
+  },
+  
+  "devDependencies": {},
+  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jhermsmeier/node-disk-fs.git"
+  },
+  
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-disk-fs/issues"
+  }
+  
+}
