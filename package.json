@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "description": "",
-  "keywords": [ "disk-fs" ],
+  "keywords": [ "disk", "disk-fs" ],
   
   "author": {
     "name": "Jonas Hermsmeier",
@@ -14,9 +14,7 @@
   
   "main": "lib/filesystem",
   
-  "dependencies": {
-    "derive": "latest"
-  },
+  "dependencies": {},
   
   "devDependencies": {},
   
